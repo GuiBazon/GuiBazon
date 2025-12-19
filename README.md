@@ -1,4 +1,4 @@
-### Olá, eu sou o Guilherme (Bazon)! 👋
+# Olá, eu sou o Guilherme (Bazon)! 👋
 
 Sou um desenvolvedor focado em **Backend** e arquitetura de software. Minha paixão é construir a lógica que faz as coisas funcionarem "nos bastidores", criando APIs robustas e resolvendo problemas complexos.
 
@@ -17,7 +17,7 @@ Atualmente, concilio minha formação técnica com projetos pessoais, buscando m
 ### 🧠 Soft Skills & Diferenciais
 * **Autodidata:** Aprendo novas tecnologias rapidamente por conta própria.
 * **Pensamento Analítico:** Habilidade afiada com lógica (reforçada pelo Xadrez ♟️).
-* **Problem Solving:** Foco em buscar soluções eficientes para desafios de código.
+* **Problem Solving:** Foco em buscar soluções eficientes e arquitetura limpa.
 
 ---
 
@@ -28,21 +28,27 @@ Atualmente, concilio minha formação técnica com projetos pessoais, buscando m
   <img align="center" alt="Gui-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Gui-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gui-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 <br>
 
-**Frontend & Mobile (Conhecimentos Complementares):**
+**Frontend (Conhecimentos Complementares):**
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Gui-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Gui-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+
+**Ferramentas & Ambiente:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Gui-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Gui-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ---
@@ -54,15 +60,6 @@ Atualmente, concilio minha formação técnica com projetos pessoais, buscando m
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBazon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBazon&layout=compact&theme=dracula"/>
-</div>
-
----
-
-### 📫 Contato
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbazon18@gmail.com)](mailto:gbazon25@gmail.com)
+# 📫 Contato
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gbazon25@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebazon/)
