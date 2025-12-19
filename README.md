@@ -10,7 +10,7 @@ Atualmente, concilio minha formação técnica com projetos pessoais, buscando m
 
 * 📚 **Técnico em Desenvolvimento de Sistemas** | SENAI (Cursando 2º ano)
 * 🏫 **Ensino Médio** | SESI (Cursando 3º ano)
-* 🇺🇸 **Inglês Avançado** (Fluente em conversação e leitura técnica)
+* 📖 **Inglês Avançado** (Fluente em conversação e leitura técnica)
 
 ---
 
