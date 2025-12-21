@@ -63,6 +63,9 @@ Atualmente, concilio minha formação técnica com projetos pessoais, buscando m
 # 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gbazon25@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebazon/)
+
+---
+
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-fc6d26?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/GBazon)
 
 (Meus projetos acadêmicos e atividades diárias do SENAI estão centralizados no meu GitLab.)
