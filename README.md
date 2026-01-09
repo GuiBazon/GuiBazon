@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor focado em **Backend** e arquitetura de software. Minha paixão é construir a lógica que faz as coisas funcionarem "nos bastidores", criando APIs robustas e resolvendo problemas complexos.
 
-Atualmente, concilio minha formação técnica com projetos pessoais, buscando minha primeira oportunidade de **Estágio** na área.
+Atualmente, concilio minha formação técnica com projetos pessoais, buscando oportunidades na área.
 
 ---
 
