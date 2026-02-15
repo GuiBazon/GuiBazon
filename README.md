@@ -37,7 +37,9 @@ Atualmente, concilio minha formação técnica com projetos pessoais, buscando o
 **Frontend (Conhecimentos Complementares):**
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-Js" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gui-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -54,7 +56,7 @@ Atualmente, concilio minha formação técnica com projetos pessoais, buscando o
 ---
 
 ### ⚡ Bastidores & Setup
-* 🐧 **Linux Enthusiast:** Gosto de usar **Ubuntu** para desenvolvimento e produtividade.
+* 🐧 **Linux Enthusiast:** Uso **Ubuntu** para desenvolvimento e produtividade.
 * 🎧 **Movido a Música:** Programo ouvindo de tudo, mas o **Rock** é o combustível principal.
 * 🎹 **Músico:** Toco **Acordeon** nas horas vagas.
 
